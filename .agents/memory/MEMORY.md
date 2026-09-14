@@ -1,0 +1,1 @@
+- [T-Engine runtime paths](tengine-runtime-path.md) — keep interpreter and bytecode VM side by side; `make` is the verified native build path.

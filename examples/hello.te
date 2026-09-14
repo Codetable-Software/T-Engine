@@ -1,0 +1,6 @@
+# Program T-Engine v0.1
+let base = 10;
+let result = base * 2 + 5;
+print result;
+print "T-Engine aktif";
+print true;

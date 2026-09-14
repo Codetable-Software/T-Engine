@@ -1,0 +1,4 @@
+print len("T-Engine");
+print sqrt(81);
+print abs(-42);
+print typeOf(true);

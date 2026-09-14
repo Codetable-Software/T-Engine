@@ -1,0 +1,12 @@
+fn add(a, b) {
+  let total = a + b;
+  return total;
+}
+
+fn negate(value) {
+  return -value;
+}
+
+let answer = add(2, 3);
+print answer;
+print negate(answer);
